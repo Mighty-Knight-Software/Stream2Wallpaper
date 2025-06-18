@@ -1,0 +1,30 @@
+c:\users\administrator\documents\visual studio 2015\Projects\App2Wallpaper\App2Wallpaper\bin\Debug\App2Wallpaper.exe
+c:\users\administrator\documents\visual studio 2015\Projects\App2Wallpaper\App2Wallpaper\bin\Debug\App2Wallpaper.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\App2Wallpaper\App2Wallpaper\bin\Debug\App2Wallpaper.xml
+c:\users\administrator\documents\visual studio 2015\Projects\App2Wallpaper\App2Wallpaper\obj\Debug\App2Wallpaper.vbprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\App2Wallpaper\App2Wallpaper\obj\Debug\App2Wallpaper.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\App2Wallpaper\App2Wallpaper\obj\Debug\App2Wallpaper.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\App2Wallpaper\App2Wallpaper\obj\Debug\App2Wallpaper.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\App2Wallpaper\App2Wallpaper\obj\Debug\App2Wallpaper.exe
+c:\users\administrator\documents\visual studio 2015\Projects\App2Wallpaper\App2Wallpaper\obj\Debug\App2Wallpaper.xml
+c:\users\administrator\documents\visual studio 2015\Projects\App2Wallpaper\App2Wallpaper\obj\Debug\App2Wallpaper.pdb
+E:\App2Wallpaper\App2Wallpaper\obj\Debug\App2Wallpaper.exe
+E:\App2Wallpaper\App2Wallpaper\obj\Debug\App2Wallpaper.xml
+E:\App2Wallpaper\App2Wallpaper\obj\Debug\App2Wallpaper.pdb
+E:\App2Wallpaper\App2Wallpaper\bin\Debug\App2Wallpaper.exe
+E:\App2Wallpaper\App2Wallpaper\bin\Debug\App2Wallpaper.pdb
+E:\App2Wallpaper\App2Wallpaper\bin\Debug\App2Wallpaper.xml
+E:\App2Wallpaper\App2Wallpaper\obj\Debug\App2Wallpaper.vbprojResolveAssemblyReference.cache
+E:\App2Wallpaper\App2Wallpaper\obj\Debug\App2Wallpaper.Form1.resources
+E:\App2Wallpaper\App2Wallpaper\obj\Debug\App2Wallpaper.Resources.resources
+E:\App2Wallpaper\App2Wallpaper\obj\Debug\App2Wallpaper.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\App2Wallpaper\App2Wallpaper\obj\Debug\App2Wallpaper.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\App2Wallpaper\App2Wallpaper\obj\Debug\App2Wallpaper.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\App2Wallpaper\App2Wallpaper\obj\Debug\App2Wallpaper.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\App2Wallpaper\App2Wallpaper\bin\Debug\App2Wallpaper.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\App2Wallpaper\App2Wallpaper\bin\Debug\App2Wallpaper.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\App2Wallpaper\App2Wallpaper\bin\Debug\App2Wallpaper.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\App2Wallpaper\App2Wallpaper\obj\Debug\App2Wallpaper.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\App2Wallpaper\App2Wallpaper\obj\Debug\App2Wallpaper.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\App2Wallpaper\App2Wallpaper\obj\Debug\App2Wallpaper.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\App2Wallpaper\App2Wallpaper\obj\Debug\App2Wallpaper.vbproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2015\Projects\App2Wallpaper\App2Wallpaper\bin\Release\App2Wallpaper.exe
+c:\users\administrator\documents\visual studio 2015\Projects\App2Wallpaper\App2Wallpaper\bin\Release\App2Wallpaper.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\App2Wallpaper\App2Wallpaper\bin\Release\App2Wallpaper.xml
+c:\users\administrator\documents\visual studio 2015\Projects\App2Wallpaper\App2Wallpaper\obj\Release\App2Wallpaper.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\App2Wallpaper\App2Wallpaper\obj\Release\App2Wallpaper.frmDesktop.resources
+c:\users\administrator\documents\visual studio 2015\Projects\App2Wallpaper\App2Wallpaper\obj\Release\App2Wallpaper.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\App2Wallpaper\App2Wallpaper\obj\Release\App2Wallpaper.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\App2Wallpaper\App2Wallpaper\obj\Release\App2Wallpaper.exe
+c:\users\administrator\documents\visual studio 2015\Projects\App2Wallpaper\App2Wallpaper\obj\Release\App2Wallpaper.xml
+c:\users\administrator\documents\visual studio 2015\Projects\App2Wallpaper\App2Wallpaper\obj\Release\App2Wallpaper.pdb

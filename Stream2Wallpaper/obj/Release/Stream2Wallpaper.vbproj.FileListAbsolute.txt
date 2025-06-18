@@ -1,0 +1,21 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\App2Wallpaper\App2Wallpaper\obj\Release\Stream2Wallpaper.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\App2Wallpaper\App2Wallpaper\bin\Release\Stream2Wallpaper.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\App2Wallpaper\App2Wallpaper\bin\Release\Stream2Wallpaper.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\App2Wallpaper\App2Wallpaper\bin\Release\Stream2Wallpaper.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\App2Wallpaper\App2Wallpaper\bin\Release\Stream2Wallpaper.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\App2Wallpaper\App2Wallpaper\obj\Release\Stream2Wallpaper.frmSetURL.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\App2Wallpaper\App2Wallpaper\obj\Release\Stream2Wallpaper.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\App2Wallpaper\App2Wallpaper\obj\Release\Stream2Wallpaper.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\App2Wallpaper\App2Wallpaper\obj\Release\Stream2Wallpaper.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\App2Wallpaper\App2Wallpaper\obj\Release\Stream2Wallpaper.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\App2Wallpaper\App2Wallpaper\obj\Release\Stream2Wallpaper.frmTrayLaunch.resources
+E:\Users\Public\Stream2Wallpaper\Stream2Wallpaper\obj\Release\Stream2Wallpaper.exe
+E:\Users\Public\Stream2Wallpaper\Stream2Wallpaper\obj\Release\Stream2Wallpaper.xml
+E:\Users\Public\Stream2Wallpaper\Stream2Wallpaper\obj\Release\Stream2Wallpaper.pdb
+E:\Users\Public\Stream2Wallpaper\Stream2Wallpaper\bin\Release\Stream2Wallpaper.exe
+E:\Users\Public\Stream2Wallpaper\Stream2Wallpaper\bin\Release\Stream2Wallpaper.pdb
+E:\Users\Public\Stream2Wallpaper\Stream2Wallpaper\bin\Release\Stream2Wallpaper.xml
+E:\Users\Public\Stream2Wallpaper\Stream2Wallpaper\obj\Release\Stream2Wallpaper.frmSetURL.resources
+E:\Users\Public\Stream2Wallpaper\Stream2Wallpaper\obj\Release\Stream2Wallpaper.frmTrayLaunch.resources
+E:\Users\Public\Stream2Wallpaper\Stream2Wallpaper\obj\Release\Stream2Wallpaper.Resources.resources
+E:\Users\Public\Stream2Wallpaper\Stream2Wallpaper\obj\Release\Stream2Wallpaper.vbproj.GenerateResource.Cache
